@@ -8,5 +8,6 @@ B will be considered as E and so on.
 The input message is first reversed and corresponding hash messageis created 
 hello == olleh
 ifoos == soofi
+This is how it works
 
 
